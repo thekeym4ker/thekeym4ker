@@ -2,7 +2,7 @@
 
 PECE | ACPE | OSCP | CISSP | OSWE | OSEP
 
-👀 A passionate individual with a keen interest in the adversarial approach to learning cybersecurity. With a focus on adversarial tactics, I delve into the world of penetration testing, red teaming, and offensive security to understand how attackers exploit vulnerabilities and enhance defensive strategies. Through my projects and research, I aim to contribute to the development of robust and resilient cybersecurity systems. 
+👀 A passionate individual with a keen interest in the adversarial approach to learning cybersecurity. As an adversarial security professional, my work includes penetration testing, red teaming, and offensive security to understand how attackers exploit vulnerabilities and enhance defensive strategies. The goal of my research and projects is contribute to the development of resilient and robust cybersecurity systems. 
 
 🌱 I'm constantly fascinated by the ever-evolving landscape of cybersecurity threats and the techniques used to defend against them.
 
